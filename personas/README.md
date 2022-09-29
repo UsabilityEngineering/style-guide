@@ -36,10 +36,14 @@
 
 
 # Scenarios
-Johnny: Johnny was invited by a previous employer to go to a Anime Convention and he wants to wear something fun but has no idea what he should wear. He has narrowed it down to a few different shirts and shorts but cannot decide on what goes well with what. He often finds himself at an impass at this point and would like a second opinion on how he looks before he decides on his outfit.
+## Johnny: 
+Johnny was invited by a previous employer to go to a Anime Convention and he wants to wear something fun but has no idea what he should wear. He has narrowed it down to a few different shirts and shorts but cannot decide on what goes well with what. He often finds himself at an impass at this point and would like a second opinion on how he looks before he decides on his outfit.
 
-Katherine: Katherine wants to wear something that will impress her co-workers at a school/staff casual function. There is an award for best dressed class and she really does not want to let her students down and is looking to really try and put together a nice outfit for the event.
+## Katherine: 
+Katherine wants to wear something that will impress her co-workers at a school/staff casual function. There is an award for best dressed class and she really does not want to let her students down and is looking to really try and put together a nice outfit for the event.
 
-Mike: Mike has a couple events coming up to represent his business in the community. He often wears biking outfits given to him for free or clothes that get greasy working on bikes. For the event he want to draw attention with bold colors but at the same time have good color matching   
+## Mike: 
+Mike has a couple events coming up to represent his business in the community. He often wears biking outfits given to him for free or clothes that get greasy working on bikes. For the event he want to draw attention with bold colors but at the same time have good color matching   
 
-Jenny: Jenny is looking at re-entering the job market. She has a minimal budget to work with but wants to look professional and dressed in current color styles for her upcoming interviews. Her husband has a rather plain style and limited exposure to style so there is little support at home when asking for feedback on how she looks.
+## Jenny: 
+Jenny is looking at re-entering the job market. She has a minimal budget to work with but wants to look professional and dressed in current color styles for her upcoming interviews. Her husband has a rather plain style and limited exposure to style so there is little support at home when asking for feedback on how she looks.
