@@ -1,6 +1,6 @@
 # StyleGuide
 
-StyleGuide offeres quick easy solutions to the age old problem of selecting good colors thatg work together
+StyleGuide offeres quick easy solutions to the age old problem of selecting good colors that work together
 
 ## UX Team Members
 
