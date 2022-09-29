@@ -7,7 +7,7 @@
 ## UX Team Members
 
 * **[Will Simpson](https://usabilityengineering.github.io/ux-portfolio-wjsimpson-chico/)** - UI / UX Designer
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[Lukas Pecson](https://usabilityengineering.github.io/ux-portfolio-Lpecson/)** - UX Designer
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
