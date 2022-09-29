@@ -1,11 +1,11 @@
-## Personas
+# Personas
 Johnny 
   * 24 year old male in California
   * Freelance software developer
   * BS in computer science
   * Does freelance contract work around every other week. Johnny lives alone, is single, and is trying to branch out and be more sociable, Johnny is colorblind and 
     thus has troubles finding good outfits to match.
-Goals:
+## Goals:
   1. Be more confidant in outfits when going out to meet new people
   2. Have a good way of quickly determining what colors work well with each other
 
@@ -14,7 +14,7 @@ Katherine
   * Highschool Math teacher
   * Masters degree in Math
   * Enjoys teaching but is very self conscious about her appearance and therefore usually sticks to the same 2 or 3 monocolored outfits. She wants to branch out more     and find more interesting outfits to wear but is too nervous to ask for her friends opinions so she just stays wearing the same bland outfits.
-Goals:
+## Goals:
   1. Find some software that can make suggestions on her outfits before she wears them out
   2. Get positive feedback when she puts together an outfit
 
@@ -23,7 +23,7 @@ Mike:
   * Bicycle mechanic
   * AA  Humanities
   * Works part time 3-4 days a week based on workload. Allows opportunities to ride bikes often and often wears biking clothes in all scenarios
-Goals:
+## Goals:
   1. Get color styles that are engaging and make a splash while honoring current style trends
 
 Jenny:
@@ -31,7 +31,7 @@ Jenny:
   * Stay at home mom of 8 & 10 year old / Amazon reviewer
   * BA Marketing
   * Works part time 3-4 hours a day reviewing products while kids are in school. Is a frequent Amazon shopper and has realized perks and benefits to review amazon        products. Being a stay at home mom allows opportunities to spend time with her children 
-Goals:
+## Goals:
   1. Jenny is looking to re-enter the job market, she needs an update wardrobe on a budget
 
 
