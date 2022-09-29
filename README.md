@@ -24,20 +24,20 @@
 
 Color is a huge statement in the world of fashion and style. StyleGuide gives users a quick easy tool to mix current clothing colors with new prospects in a way that is easy to reference in day to day life. Comparing other application offerings for color selection in regards to fashion and style shows a large opportunity to change the industry
 
-1. **Competitive Analysis** of similar products showed a unique placement to highlight a better approach to an age old problem of matching colors
-A quick reference for matching colors in a specific article of clothing 
--- Store colors to look at later when selecting or purchasing new items
--- Offer more that just complimentary colors such as Tried or Monochromatic
-2. **Heuristic Evaluation** of different offerings from multiple vendors has revealed advantages over the competition and a unique placement for our product.
--- Cross platform support capture a larger user base
--- Additional Color systems makes for greater versatility
-3. **Personas and Scenarios** provides real world use cases where the product is most useful
--- User with color selection challenges
--- Fast color selection for users with limited time
--- Alternate color options for budget shoppers
-4. **Sketches and Diagrams**
--- UI Example showing basic placement of elements on the screen
--- User flow Diagram highlighting user interaction with the products
+**Competitive Analysis** of similar products showed a unique placement to highlight a better approach to an age old problem of matching colors
+- A quick reference for matching colors in a specific article of clothing 
+- Store colors to look at later when selecting or purchasing new items
+- Offer more that just complimentary colors such as Tried or Monochromatic
+**Heuristic Evaluation** of different offerings from multiple vendors has revealed advantages over the competition and a unique placement for our product.
+- Cross platform support capture a larger user base
+- Additional Color systems makes for greater versatility
+**Personas and Scenarios** provides real world use cases where the product is most useful
+- User with color selection challenges
+- Fast color selection for users with limited time
+- Alternate color options for budget shoppers
+**Sketches and Diagrams**
+- UI Example showing basic placement of elements on the screen
+- User flow Diagram highlighting user interaction with the products
 
 
 [Full phase I report](phaseI/)
