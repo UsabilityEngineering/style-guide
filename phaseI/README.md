@@ -3,5 +3,9 @@
 ## Analyzing Users
 
 ## Competitors
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 ## Initial Designs
