@@ -36,7 +36,7 @@ Works part time 3-4 hours a day reviewing products while kids are in school. Is 
 Goals:
 Jenny is looking to re-enter the job market, she needs an update wardrobe on a budget
 
-#Scenarios
+# Scenarios
 Johnny: Johnny was invited by a previous employer to go to a Anime Convention and he wants to wear something fun but has no idea what he should wear. He has narrowed it down to a few different shirts and shorts but cannot decide on what goes well with what. He often finds himself at an impass at this point and would like a second opinion on how he looks before he decides on his outfit.
 
 Katherine: Katherine wants to wear something that will impress her co-workers at a school/staff casual function. There is an award for best dressed class and she really does not want to let her students down and is looking to really try and put together a nice outfit for the event.
