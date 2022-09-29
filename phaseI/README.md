@@ -3,9 +3,10 @@
 ## Analyzing Users
 
 ## Competitors
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Products | Strengths | Weaknesses | Quality Level | Price/Cost | Platform |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
 
 ## Initial Designs
