@@ -1,5 +1,5 @@
 # Personas
-Johnny 
+## Johnny 
   * 24 year old male in California
   * Freelance software developer
   * BS in computer science
@@ -9,7 +9,7 @@ Johnny
   1. Be more confidant in outfits when going out to meet new people
   2. Have a good way of quickly determining what colors work well with each other
 
-Katherine
+## Katherine
   * 29 year old female in New York
   * Highschool Math teacher
   * Masters degree in Math
@@ -18,7 +18,7 @@ Katherine
   1. Find some software that can make suggestions on her outfits before she wears them out
   2. Get positive feedback when she puts together an outfit
 
-Mike:
+## Mike:
   * 32 Year old lives in Sierra Nevada Foothills
   * Bicycle mechanic
   * AA  Humanities
@@ -26,7 +26,7 @@ Mike:
 ## Goals:
   1. Get color styles that are engaging and make a splash while honoring current style trends
 
-Jenny:
+## Jenny:
   * 38 Year old lives in Roseville
   * Stay at home mom of 8 & 10 year old / Amazon reviewer
   * BA Marketing
@@ -35,7 +35,7 @@ Jenny:
   1. Jenny is looking to re-enter the job market, she needs an update wardrobe on a budget
 
 
-## Scenarios
+# Scenarios
 Johnny: Johnny was invited by a previous employer to go to a Anime Convention and he wants to wear something fun but has no idea what he should wear. He has narrowed it down to a few different shirts and shorts but cannot decide on what goes well with what. He often finds himself at an impass at this point and would like a second opinion on how he looks before he decides on his outfit.
 
 Katherine: Katherine wants to wear something that will impress her co-workers at a school/staff casual function. There is an award for best dressed class and she really does not want to let her students down and is looking to really try and put together a nice outfit for the event.
