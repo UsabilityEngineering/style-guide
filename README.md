@@ -28,13 +28,16 @@ Color is a huge statement in the world of fashion and style. StyleGuide gives us
 - A quick reference for matching colors in a specific article of clothing 
 - Store colors to look at later when selecting or purchasing new items
 - Offer more that just complimentary colors such as Tried or Monochromatic
+
 **Heuristic Evaluation** of different offerings from multiple vendors has revealed advantages over the competition and a unique placement for our product.
 - Cross platform support capture a larger user base
 - Additional Color systems makes for greater versatility
+
 **Personas and Scenarios** provides real world use cases where the product is most useful
 - User with color selection challenges
 - Fast color selection for users with limited time
 - Alternate color options for budget shoppers
+
 **Sketches and Diagrams**
 - UI Example showing basic placement of elements on the screen
 - User flow Diagram highlighting user interaction with the products
