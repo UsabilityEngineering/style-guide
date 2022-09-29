@@ -1,14 +1,13 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
+# StyleGuide
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+StyleGuide offeres quick easy solutions to the age old problem of selecting good colors thatg work together
 
 ## UX Team Members
 
 * **[Will Simpson](https://usabilityengineering.github.io/ux-portfolio-wjsimpson-chico/)** - UI / UX Designer
 * **[Lukas Pecson](https://usabilityengineering.github.io/ux-portfolio-Lpecson/)** - UX Designer
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
  
