@@ -2,6 +2,6 @@
 
 ## Analyzing Users
 
-### Competitors
+## Competitors
 
 ## Initial Designs
