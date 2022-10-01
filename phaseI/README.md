@@ -1,6 +1,8 @@
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
 ## Competitors
+We did a competition analysis by looking at similar apps looking to achieve the same goals we are looking to achieve.
+We went online and found several apps and rated their strengths and weaknesses as well as how good the overall quality of the app was as well. We also noted the price and availability of the app.
 | Products | Strengths | Weaknesses | Quality Level(1-10) | Price/Cost | Platform |
 | --- | --- | --- | --- | --- | --- |
 | https://www.askhue.com/ | Smart Phone - Easy Access and ease of use | No Android Availability | 9 | Free | IOS |
