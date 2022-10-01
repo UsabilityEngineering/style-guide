@@ -113,6 +113,7 @@ The **Heuristic Evaluation** gave a strong insight into specific needs of the us
 * **Heuristic Evaluation**
     * Targeted investigation of a specific vendors application following the competitive analysis
 
+
 * **Visibility of System Status** \
 Very clean and simple UI. Visual mapping makes decisions easy and straightforward
 * **Match between system and the real world** \
