@@ -59,12 +59,12 @@ Applying color theory rules allows for a numeric accuracy to follow to get a goo
 The UI doesn’t leave many options for failure or needing to back out of a given selection 
 * **Recognition rather than recall** \
 The IOS standards have been well integrated to make the UI consistent with other applications for primary functions 
-* **Flexibility and efficiency of use \
-**Tasks are simple to accomplish and easy to follow through  
-* **Aesthetic and minimalist design \
-**Aesthetically speaking the experience is slick and effective, the experience is seamless
-* **Help users recognize, diagnose, and recover from errors \
-**Error recovery was a difficult case to replicate, straightforward UI/UX design made the flow of the application easy to follow 
+* **Flexibility and efficiency of use** \
+Tasks are simple to accomplish and easy to follow through  
+* **Aesthetic and minimalist design** \
+Aesthetically speaking the experience is slick and effective, the experience is seamless
+* **Help users recognize, diagnose, and recover from errors** \
+Error recovery was a difficult case to replicate, straightforward UI/UX design made the flow of the application easy to follow 
 
 **Conclusions**
 
