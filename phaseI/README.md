@@ -23,12 +23,78 @@ With simple **Sketches and Diagrams** we were able to work through potential UI 
 
 We did a **Competitive Analysis** by looking at similar apps looking to achieve the same goals we are looking to achieve.
 We went online and found several apps and rated their strengths and weaknesses as well as how good the overall quality of the app was as well. We also noted the price and availability of the app.
-| Products | Strengths | Weaknesses | Quality Level(1-10) | Price/Cost | Platform |
-| --- | --- | --- | --- | --- | --- |
-| https://www.askhue.com/ | Smart Phone - Easy Access and ease of use | No Android Availability | 9 | Free | IOS |
-| https://ccolor.com/ | More than just clothing. General Color theory tool for many uses | Not as specific so its easy to get distracted | 8 | Free | IOS |
-| StyleBook | Iphone App, easy to access and plan a month of clothes | No Android, Only IOS access. No Reccomendation only planning | 8-9 | $3.99 | IOS |
-| Smart Closet | Android App, Has Popular outfits-Reccomendation type tab | No calendar overview. Feels kind of busy/overcomplicated | 7-8 | Free | Android/IOS |
+<table>
+  <tr>
+   <td><strong>Products</strong>
+   </td>
+   <td><strong>Strengths</strong>
+   </td>
+   <td><strong>Weaknesses</strong>
+   </td>
+   <td><strong>Quality Level(1-10)</strong>
+   </td>
+   <td><strong>Price/Cost</strong>
+   </td>
+   <td><strong>Platform</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.askhue.com/">https://www.askhue.com/</a>
+   </td>
+   <td>Smart Phone - Easy Access and ease of use
+   </td>
+   <td>No Android Availability
+   </td>
+   <td>9
+   </td>
+   <td>Free
+   </td>
+   <td>IOS
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://ccolor.com/">https://ccolor.com/</a>
+   </td>
+   <td>More than just clothing. General Color theory tool for many uses
+   </td>
+   <td>Not as specific so its easy to get distracted
+   </td>
+   <td>8
+   </td>
+   <td>Free
+   </td>
+   <td>IOS
+   </td>
+  </tr>
+  <tr>
+   <td>StyleBook
+   </td>
+   <td>Iphone App, easy to access and plan a month of clothes
+   </td>
+   <td>No Android, Only IOS access. No Recommendation only planning
+   </td>
+   <td>8-9
+   </td>
+   <td>$3.99
+   </td>
+   <td>IOS
+   </td>
+  </tr>
+  <tr>
+   <td>Smart Closet
+   </td>
+   <td>Android App, Has Popular outfits-Recommendation type tab
+   </td>
+   <td>No calendar overview. Feels kind of busy/overcomplicated
+   </td>
+   <td>7-8
+   </td>
+   <td>Free
+   </td>
+   <td>Android/IOS
+   </td>
+  </tr>
+</table>
 
 The **Heuristic Evaluation** gave a strong insight into specific needs of the user and how best to satisfy these needs.
 
