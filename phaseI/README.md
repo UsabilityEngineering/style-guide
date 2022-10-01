@@ -10,11 +10,12 @@ We went online and found several apps and rated their strengths and weaknesses a
 | StyleBook | Iphone App, easy to access and plan a month of clothes | No Android, Only IOS access. No Reccomendation only planning | 8-9 | $3.99 | IOS |
 | Smart Closet | Android App, Has Popular outfits-Reccomendation type tab | No calendar overview. Feels kind of busy/overcomplicated | 7-8 | Free | Android/IOS |
 
-## Analyzing Users
+## Analyzing Target Users
+Style guide is aimed towards people who:
 * People who just grab the first clean shirt and pants they see for the day.
 * People who want to look good but have bad fashion sense
 * People who are poor planners or random shoppers who buy unique garments without a specific outfit plan in mind
 * People who are color blind/deficient and want quick easy complimentary color matching
-* Thrift shoppers
+* people who are frequent Thrift shoppers
 
 ## Initial Designs
