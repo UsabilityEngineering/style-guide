@@ -3,20 +3,9 @@
 ## Competitors
 We did a competition analysis by looking at similar apps looking to achieve the same goals we are looking to achieve.
 We went online and found several apps and rated their strengths and weaknesses as well as how good the overall quality of the app was as well. We also noted the price and availability of the app.
-| Products | Strengths | Weaknesses | Quality Level(1-10) | Price/Cost | Platform |
-| --- | --- | --- | --- | --- | --- |
-| https://www.askhue.com/ | Smart Phone - Easy Access and ease of use | No Android Availability | 9 | Free | IOS |
-| https://ccolor.com/ | More than just clothing. General Color theory tool for many uses | Not as specific so its easy to get distracted | 8 | Free | IOS |
-| StyleBook | Iphone App, easy to access and plan a month of clothes | No Android, Only IOS access. No Reccomendation only planning | 8-9 | $3.99 | IOS |
-| Smart Closet | Android App, Has Popular outfits-Reccomendation type tab | No calendar overview. Feels kind of busy/overcomplicated | 7-8 | Free | Android/IOS |
 
-## Analyzing Target Users
-Style guide is aimed towards people who:
-* People who just grab the first clean shirt and pants they see for the day.
-* People who want to look good but have bad fashion sense
-* People who are poor planners or random shoppers who buy unique garments without a specific outfit plan in mind
-* People who are color blind/deficient and want quick easy complimentary color matching
-* people who are frequent Thrift shoppers
+
+
 
 **StyleGuide**
 
@@ -32,9 +21,22 @@ For Phase I we began with **Data Gathering**. The most viable tool listed was Na
 
 Following the research into **Personas and Scenarios** to get a better understanding of our target users. We identified specific needs for potential users and the challenging situations for good color choices.
 
-With simple **Sketches and Diagrams **we were able to work through potential UI challenges and get a good feeling of the user flow through the application. 
+Style guide is aimed towards people who:
+* People who just grab the first clean shirt and pants they see for the day.
+* People who want to look good but have bad fashion sense
+* People who are poor planners or random shoppers who buy unique garments without a specific outfit plan in mind
+* People who are color blind/deficient and want quick easy complimentary color matching
+* people who are frequent Thrift shoppers
+
+With simple **Sketches and Diagrams** we were able to work through potential UI challenges and get a good feeling of the user flow through the application. 
 
 In the **Competitive Analysis** we sampled different options from a variety of vendors. The lack of cross platform solutions provides a strong niche for our application as well as better color systems to select from.
+| Products | Strengths | Weaknesses | Quality Level(1-10) | Price/Cost | Platform |
+| --- | --- | --- | --- | --- | --- |
+| https://www.askhue.com/ | Smart Phone - Easy Access and ease of use | No Android Availability | 9 | Free | IOS |
+| https://ccolor.com/ | More than just clothing. General Color theory tool for many uses | Not as specific so its easy to get distracted | 8 | Free | IOS |
+| StyleBook | Iphone App, easy to access and plan a month of clothes | No Android, Only IOS access. No Reccomendation only planning | 8-9 | $3.99 | IOS |
+| Smart Closet | Android App, Has Popular outfits-Reccomendation type tab | No calendar overview. Feels kind of busy/overcomplicated | 7-8 | Free | Android/IOS |
 
 The **Heuristic Evaluation** gave a strong insight into specific needs of the user and how best to satisfy these needs.
 
@@ -52,11 +54,6 @@ The **Heuristic Evaluation** gave a strong insight into specific needs of the us
     * Compared offering from different vendors to evaluate how well they are solving the same problems we are in the target market  
 * **Heuristic Evaluation**
     * Targeted investigation of a specific vendors application following the competitive analysis
-
- \
- 
-
-
 
 * **Visibility of System Status** \
 Very clean and simple UI. Visual mapping makes decisions easy and straightforward
