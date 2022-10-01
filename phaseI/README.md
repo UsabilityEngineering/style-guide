@@ -1,11 +1,3 @@
-# Phase I: Analyzing Users, Competitors, and Initial Designs
-
-## Competitors
-
-
-
-
-
 # **StyleGuide**
 
 ## **Phase I:**  Analyzing Users, Competitors, and Initial Designs 
