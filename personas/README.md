@@ -1,6 +1,6 @@
 # Personas
 ## Johnny 
-![Johnny](Johnny.JPG)
+![Johnny](Johnny.jpeg)
   * 24 year old male in California
   * Freelance software developer
   * BS in computer science
@@ -11,7 +11,7 @@
   2. Have a good way of quickly determining what colors work well with each other
 
 ## Katherine
-![Katherine](Katherine.JPG)
+![Katherine](Katherine.jpeg)
   * 29 year old female in New York
   * Highschool Math teacher
   * Masters degree in Math
@@ -21,7 +21,7 @@
   2. Get positive feedback when she puts together an outfit
 
 ## Mike:
-![Mike](Mike.JPG)
+![Mike](Mike.jpeg)
   * 32 Year old lives in Sierra Nevada Foothills
   * Bicycle mechanic
   * AA  Humanities
@@ -30,7 +30,7 @@
   1. Get color styles that are engaging and make a splash while honoring current style trends
 
 ## Jenny:
-![Jenny](Jenny.JPG)
+![Jenny](Jenny.jpeg)
   * 38 Year old lives in Roseville
   * Stay at home mom of 8 & 10 year old / Amazon reviewer
   * BA Marketing
