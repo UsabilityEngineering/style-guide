@@ -13,9 +13,11 @@ We added scenarios for how our app would be used by an actual user. Once we had 
 able to get feedback through other students Cognitive Walkthrough using our wireframes and personas with scenarios.
 
 ## WireFrames
-We mainly focused on creating a wireframe that would show how our app would function. 
+We mainly focused on creating a wireframe that would show how our app would function. We created a wireframe for each possible page for our app.
+Once we had all the wireframes built we could then get good feedback on it from Cognitive Walkthroughs done on our wireframe by other UX Design students.
 
 ## Cognitive Walkthrough
+For our cognitive walkthroughs other UX design students used our wireframes and acted as one of the personas and scenarios that that persona was given. They then tried to achieve their intended goal using our wireframe as a walkthrough. Two of the walkthroughs said they were unsure if they were making progress towards their goal and needed a stronger indication that they were reaching their goal.
 
 # Findings
 
