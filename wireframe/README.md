@@ -1,1 +1,12 @@
-
+# Wireframes
+![10](10_Home_Screen.jpg)
+![11](11_User_Profile.jpg)
+![1](1_Home_Screen.jpg)
+![2](2_Image_Capture.jpg)
+![3](3_Color_Select_1.jpg)
+![4](4_Color_Select_2.jpg)
+![5](5_Swatch_Select.jpg)
+![6](6_Home_Screen_color.jpg)
+![7](7_Color_System_Selection.jpg)
+![8](8_Select_Triad.jpg)
+![9](9_UI_Reflects_Color_System.jpg)
