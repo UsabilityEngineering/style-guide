@@ -14,7 +14,7 @@ able to get feedback through other students Cognitive Walkthrough using our wire
 
 ## WireFrames
 
-[Wireframes](../wireframe/)
+[Wireframes](style-guide/wireframe/)
 
 We mainly focused on creating a wireframe that would show how our app would function. We created a wireframe for each possible page for our app.
 Once we had all the wireframes built we could then get good feedback on it from Cognitive Walkthroughs done on our wireframe by other UX Design students.
