@@ -13,6 +13,7 @@ We added scenarios for how our app would be used by an actual user. Once we had 
 able to get feedback through other students Cognitive Walkthrough using our wireframes and personas with scenarios.
 
 ## WireFrames
+We mainly focused on creating a wireframe that would show how our app would function. 
 
 ## Cognitive Walkthrough
 
