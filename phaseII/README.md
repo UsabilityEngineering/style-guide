@@ -11,8 +11,10 @@ Will Simpson - UX/UI Designer
 
 ## Cognitive Walkthrough
 
+# Findings
+
 ## User Feedback
 
-## Conclusion
+# Conclusion
 
-#Caveats
+# Caveats
