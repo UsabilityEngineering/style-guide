@@ -26,6 +26,8 @@ For our cognitive walkthroughs other UX design students used our wireframes and 
 
 ## User Feedback
 
+## Team Feedback
+
 # Conclusion
 
 # Caveats
