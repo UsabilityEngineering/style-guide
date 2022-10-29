@@ -1,6 +1,6 @@
 # Wireframes
 
-## Scenario 1 of Selecting a Color Swatch from a photo
+## Scenario 1 of selecting a Color Swatch from a photo
 
 <table>
   <tr>
