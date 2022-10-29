@@ -16,10 +16,13 @@
 <img src="1_Home_Screen.jpg" width="" alt="alt_text" title="image_tooltip">
    </td>
    <td>
-<img src="2_Image_Capture" width="" alt="alt_text" title="image_tooltip">
+<img src="2_Image_Capture.jpg" width="" alt="alt_text" title="image_tooltip">
    </td>
   </tr>
 </table>
+<br>
+<br>
+<br>
 
 ## Scenario 1 of Selecting a Color Swatch from a photo
 
@@ -39,6 +42,9 @@
    </td>
   </tr>
 </table>
+<br>
+<br>
+<br>
 
 ## Scenario 2 - Change the color system
 
@@ -58,6 +64,9 @@
    </td>
   </tr>
 </table>
+<br>
+<br>
+<br>
 
 ## Scenario 2 - Change the color system
 
@@ -78,6 +87,9 @@
    </td>
   </tr>
 </table>
+<br>
+<br>
+<br>
 
 ## Scenario 3 - View stored color matches
 
