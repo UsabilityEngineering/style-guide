@@ -46,10 +46,25 @@ Color is a huge statement in the world of fashion and style. StyleGuide gives us
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+**Executive Summary**
+
+**	**For this phase of the project we created wireframes that helped us visualize what the final product may look like, and model how a typical user interacts with the application. We modeled what each different display would look like and then we had other groups perform a cognitive walkthrough on our wireframes so far. Each of the cognitive walkthroughs were done using our personas and scenarios and gave us some good insight on someone trying to use our product. We gained good criticism on making our goals and intentions with the app more clear.
+
+**Cognitive Walkthrough:**
+
+* Create stronger visual cues for specific actions
+* Offer a better description of the desired outcome
+* Make a clear example of the % of success when picking colors
+
+**Informal SE team feedback**
+
+* Verify functionality of the color picker
+* Evaluate moving to React instead of the Unity Engine
+* Remove user account form the wireframes (Tracking users out of scope)
+
+**User feedback and suggested changes**
+
+User feedback pointed us towards the need for better visual cues in accomplishing tasks in the program. The need to find a balance between the engineering time invested and capturing a small percentage of uneducated users.
 
 [Full phase II report](phaseII/)
 
