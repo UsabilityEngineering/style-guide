@@ -46,9 +46,7 @@ Color is a huge statement in the world of fashion and style. StyleGuide gives us
 
 **Executive Summary**
 
-**Executive Summary**
-
-**	**For this phase of the project we created wireframes that helped us visualize what the final product may look like, and model how a typical user interacts with the application. We modeled what each different display would look like and then we had other groups perform a cognitive walkthrough on our wireframes so far. Each of the cognitive walkthroughs were done using our personas and scenarios and gave us some good insight on someone trying to use our product. We gained good criticism on making our goals and intentions with the app more clear.
+For this phase of the project we created wireframes that helped us visualize what the final product may look like, and model how a typical user interacts with the application. We modeled what each different display would look like and then we had other groups perform a cognitive walkthrough on our wireframes so far. Each of the cognitive walkthroughs were done using our personas and scenarios and gave us some good insight on someone trying to use our product. We gained good criticism on making our goals and intentions with the app more clear.
 
 **Cognitive Walkthrough:**
 
