@@ -56,8 +56,9 @@ For this phase of the project we created wireframes that helped us visualize wha
 **Informal SE team feedback**
 
 * Verify functionality of the color picker
-* Evaluate moving to React instead of the Unity Engine
+* Transition to React from the Unity Engine
 * Remove user account form the wireframes (Tracking users out of scope)
+* Simplify scope with a single color picker option instead of 2
 
 **User feedback and suggested changes**
 
