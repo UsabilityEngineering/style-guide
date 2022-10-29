@@ -1,8 +1,8 @@
-## Wireframes
+# Wireframes
 
-# Wireframe of Various Scenarios with the StyleGuide application
+Wireframe of Various Scenarios with the StyleGuide application
 
-# Scenario 1 of Selecting a Color Swatch from a photo
+Scenario 1 of Selecting a Color Swatch from a photo
 
 <table>
   <tr>
