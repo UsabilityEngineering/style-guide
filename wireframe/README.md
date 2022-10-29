@@ -1,13 +1,61 @@
 # Wireframes
-1st screen: Login screen
-![10](10_Home_Screen.jpg)
-![11](11_User_Profile.jpg)
-![1](1_Home_Screen.jpg)
-![2](2_Image_Capture.jpg)
-![3](3_Color_Select_1.jpg)
-![4](4_Color_Select_2.jpg)
-![5](5_Swatch_Select.jpg)
-![6](6_Home_Screen_color.jpg)
-![7](7_Color_System_Selection.jpg)
-![8](8_Select_Triad.jpg)
-![9](9_UI_Reflects_Color_System.jpg)
+
+Wireframe of Various Scenarios with the StyleGuide application
+
+Scenario 1 of Selecting a Color Swatch from a photo
+
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+
+
+
+<img src="images/image1.jpg" width="" alt="alt_text" title="image_tooltip">
+
+   </td>
+   <td>
+
+
+
+<img src="images/image2.jpg" width="" alt="alt_text" title="image_tooltip">
+
+   </td>
+  </tr>
+</table>
+
+
+
+
+
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+
+
+
+<img src="images/image3.jpg" width="" alt="alt_text" title="image_tooltip">
+
+   </td>
+   <td>
+
+
+
+<img src="images/image4.jpg" width="" alt="alt_text" title="image_tooltip">
+
+   </td>
+  </tr>
+</table>
+
