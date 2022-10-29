@@ -14,25 +14,14 @@ Scenario 1 of Selecting a Color Swatch from a photo
   </tr>
   <tr>
    <td>
-
-
-
-<img src="images/image1.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="1_Home_Screen.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
    <td>
-
-
-
-<img src="images/image2.jpg" width="" alt="alt_text" title="image_tooltip">
-
+<img src="2_Image_Capture.jpg" width="" alt="alt_text" title="image_tooltip">
    </td>
   </tr>
 </table>
-
-
-
-
 
 <table>
   <tr>
@@ -43,18 +32,10 @@ Scenario 1 of Selecting a Color Swatch from a photo
   </tr>
   <tr>
    <td>
-
-
-
-<img src="images/image3.jpg" width="" alt="alt_text" title="image_tooltip">
-
+<img src="3_Color_Select_1.jpg" width="" alt="alt_text" title="image_tooltip">
    </td>
    <td>
-
-
-
-<img src="images/image4.jpg" width="" alt="alt_text" title="image_tooltip">
-
+<img src="4_Color_Select_2.jpg" width="" alt="alt_text" title="image_tooltip">
    </td>
   </tr>
 </table>
