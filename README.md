@@ -69,7 +69,7 @@ User feedback pointed us towards the need for better visual cues in accomplishin
 # Phase III: Prototypes and User Testing
 
 **Introduction**
-
+Phase III included: making our prototype from our wireframe, creating a user test to get feedback, and implementing said user test on real people and taking notes on the feedback given by "actual useres" (will be explained in caveats)
 **Methods**
 
 **Findings**
