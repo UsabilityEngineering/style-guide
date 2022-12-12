@@ -19,8 +19,17 @@ How we wanted this to be solved was: User navigates to the bottom of the screen 
 Task 3 was user wanted to reference a color pairing/grouping that they used in the past
 How we wanted this to be solved was: User navigates to the User Profile tab in the top left and then selects a previously matched/grouped set of colors
 
-**Findings**
+Once done with all steps of our test we would ask users debreif questions to get some insight on their thoughts on the product including.
+"In general, what did you like or dislike the most?"
 
+"Are there any features you felt were needed? Any features to be taken away"
+
+"Are there any other thoughts or comments?"
+
+
+**Findings**
+We got quite a bit of good feedback, that mostly all centered around our naming parts of the prototype, but also that the Home page was a bit unnecessary. 
+Most Users found that the home page did not add much as there was nothing but a logo there and additionally didn't have a strong call to action button that would draw the user to the color picker portion which is where you take the photo, and perhaps where our 1st screen should have started.
 **Conclusions**
 
 **Caveats**
