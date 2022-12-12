@@ -68,11 +68,14 @@ User feedback pointed us towards the need for better visual cues in accomplishin
 
 # Phase III: Prototypes and User Testing
 
-**Executive Summary**
+**Introduction**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+**Methods**
+
+**Findings**
+
+**Conclusions**
+
+**Caveats**
 
 [Full phase III report](phaseIII/)
