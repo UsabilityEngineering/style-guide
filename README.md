@@ -74,17 +74,8 @@ User feedback pointed us towards the need for better visual cues in accomplishin
 In the final phase of the project we conducted a Pilot test with a specific user testing protocol to navigate our limited functionality prototype. The Pilot test yielded excellent feedback on user flow through the application. We were able to identify problems areas as well as simple improvements to make the product more efficient, learnable, and offer rewarding feedback to the user. With a few simple adjustments, the Style-Guide color picking application is ready for the general public.
 
 **Prototype**
-
 [Functional Prototype](https://xd.adobe.com/view/fdb1d7fd-1ada-49b0-bfba-e091959253f8-a8e2/)
 
 
-Phase III included: making our prototype from our wireframe, creating a user test to get feedback, and implementing said user test on real people and taking notes on the feedback given by "actual useres" (will be explained in caveats)
-**Methods**
-
-**Findings**
-
-**Conclusions**
-
-**Caveats**
-
+**Phase III Report**
 [Full phase III report](phaseIII/)
