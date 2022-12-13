@@ -31,7 +31,10 @@ Once done with all steps of our test we would ask users debreif questions to get
 
 We got quite a bit of good feedback, that mostly all centered around our naming parts of the prototype, but also that the Home page was a bit unnecessary. 
 Most Users found that the home page did not add much as there was nothing but a logo there and additionally didn't have a strong call to action button that would draw the user to the color picker portion which is where you take the photo, and perhaps where our 1st screen should have started.
+
 **Conclusions**
+
+The most obvious conclusion we can draw from our data is that we should have had the names in our prototype be more easily understood, and representative of what that tab was doing. An obvious answer was our "Swatches" tab, many of the testers did not know what swatches meant, and those who completed the step mainly did because they had tried all the other tabs already. If we had named it something like "Matches" or "Complimentary colors" the idea would have been better understood more broadly.
 
 **Caveats**
 
