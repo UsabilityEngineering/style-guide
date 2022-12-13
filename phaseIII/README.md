@@ -45,7 +45,7 @@ Most Users found that the home page did not add much as there was nothing but a 
 
 **Conclusions**
 
-The most obvious conclusion we can draw from our data is that we should have had the names in our prototype be more easily understood, and representative of what that tab was doing. An obvious answer was our "Swatches" tab, many of the testers did not know what swatches meant, and those who completed the step mainly did because they had tried all the other tabs already. If we had named it something like "Matches" or "Complimentary colors" the idea would have been better understood more broadly.
+The most obvious conclusion we can draw from our data is that we should have had the names in our prototype be more easily understood, and representative of what that tab was doing. An obvious answer was our "Swatches" tab, many of the testers did not know what swatches meant, and those who completed the step mainly did because they had tried all the other tabs already. If we had named it something like "Matches" or "Complimentary colors" the idea would have been better understood more broadly. Additionally, having a very visible call to action button that would take the user to the camera to get them started would also make a lot of sense because our homepage realistically was not very helpful with it just being essentially a page with the app name on it.
 
 **Caveats**
 
