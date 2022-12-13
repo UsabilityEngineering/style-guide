@@ -49,4 +49,4 @@ The most obvious conclusion we can draw from our data is that we should have had
 
 **Caveats**
 
-The main and most obvious caveat is that our user testers were all from a UX Design class. So the population we tested is not exactly representative of all end users as each tester has some background in user design
+The main and most obvious caveat is that our user testers were all from a UX Design class. So the population we tested is not exactly representative of all end users as each tester has some background in user design. We knew that each tester would have an inheret bias and that we may have gotten different feedback were we to use actual random testers from different backgrounds. However we still believe that the feedback we recieved was very valid and still find the data obtained valueable.
