@@ -43,18 +43,20 @@ Once done with all steps of our test we would ask users debreif questions to get
 We got quite a bit of good feedback, that mostly all centered around our naming parts of the prototype, but also that the Home page was a bit unnecessary. 
 Most Users found that the home page did not add much as there was nothing but a logo there and additionally didn't have a strong call to action button that would draw the user to the color picker portion which is where you take the photo, and perhaps where our 1st screen should have started. Overall, it seemed that the user being familiar with or used a color picker in the past was not super impactful on their thoughts on our product, as the feedback was very similar to those who had not used a color picker before.
 
+**Color Picker**
+
 At the core of the application is a "camera" to take a photo of the color needing to get sampled. Once that color was selected, the next step of selecting the complimentary. A few lessons in the this approach were:
 
 #1: Industry Standards of a Camera button did not translate well in actual user cases (Could be a fidelity problem)
 
 #2: The "Select Color" call to action did not draw the user in the right options. "Select color how?" and "Select color from where?" turned out to be the common misunderstanding.
 
-**Color Picker**
 ![Image](color_pick.jpg)
+
+**Swatches**
 
 Another assumed Industry Standard term for selecting colors was the use of "Swatches." As it turns out, none of our test subjects had any familiarity with Pantone color swatches for example. This made for some difficult navigation to get to a complimentary color of a currently selected color.
 
-**Swatches**
 ![Image](swatches.jpg)
 
 **Conclusions**
