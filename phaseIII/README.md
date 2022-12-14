@@ -43,6 +43,15 @@ Once done with all steps of our test we would ask users debreif questions to get
 We got quite a bit of good feedback, that mostly all centered around our naming parts of the prototype, but also that the Home page was a bit unnecessary. 
 Most Users found that the home page did not add much as there was nothing but a logo there and additionally didn't have a strong call to action button that would draw the user to the color picker portion which is where you take the photo, and perhaps where our 1st screen should have started. Overall, it seemed that the user being familiar with or used a color picker in the past was not super impactful on their thoughts on our product, as the feedback was very similar to those who had not used a color picker before.
 
+At the core of the application is a "camera" to take a photo of the color needing to get sampled. Once that color was selected, the next step of selecting the complimentary. A few lessons in the this approach were:
+
+#1: Indistry Standards of a Camera button did not translate well in actual user cases (Could be a fidelity problem)
+
+#2: The "Select Color" call to action did not draw the user in the right options. "Select color how?" and "Select color from where?" turned out to be the common misunderstanding.
+
+## Color Picker
+![Image](color_pick.jpg)
+
 **Conclusions**
 
 The most obvious conclusion we can draw from our data is that we should have had the names in our prototype be more easily understood, and representative of what that tab was doing. Every single user gave feedback saying that the naming of tabs in our app could have been more representative of their function. An obvious answer was our "Swatches" tab, many of the testers did not know what swatches meant, and those who completed the step mainly did because they had tried all the other tabs already. If we had named it something like "Matches" or "Complimentary colors" the idea would have been better understood more broadly. Additionally, having a very visible call to action button that would take the user to the camera to get them started would also make a lot of sense because our homepage realistically was not very helpful with it just being essentially a page with the app name on it. We were overall very happy with how our testing went and also with how our product was recieved, we got a prototype to the level of functionality that let us run our tests and get good data from it.
