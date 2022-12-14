@@ -49,12 +49,12 @@ At the core of the application is a "camera" to take a photo of the color needin
 
 #2: The "Select Color" call to action did not draw the user in the right options. "Select color how?" and "Select color from where?" turned out to be the common misunderstanding.
 
-# Color Picker
+**Color Picker**
 ![Image](color_pick.jpg)
 
 Another assumed Industry Standard term for selecting colors was the use of "Swatches." As it turns out, none of our test subjects had any familiarity with Pantone color swatches for example. This made for some difficult navigation to get to a complimentary color of a currently selected color.
 
-# Swatches
+**Swatches**
 ![Image](swatches.jpg)
 
 **Conclusions**
