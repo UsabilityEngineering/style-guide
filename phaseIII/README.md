@@ -45,12 +45,17 @@ Most Users found that the home page did not add much as there was nothing but a 
 
 At the core of the application is a "camera" to take a photo of the color needing to get sampled. Once that color was selected, the next step of selecting the complimentary. A few lessons in the this approach were:
 
-#1: Indistry Standards of a Camera button did not translate well in actual user cases (Could be a fidelity problem)
+#1: Industry Standards of a Camera button did not translate well in actual user cases (Could be a fidelity problem)
 
 #2: The "Select Color" call to action did not draw the user in the right options. "Select color how?" and "Select color from where?" turned out to be the common misunderstanding.
 
-## Color Picker
+# Color Picker
 ![Image](color_pick.jpg)
+
+Another assumed Industry Standard term for selecting colors was the use of "Swatches." As it turns out, none of our test subjects had any familiarity with Pantone color swatches for example. This made for some difficult navigation to get to a complimentary color of a currently selected color.
+
+# Swatches
+![Image](swatches.jpg)
 
 **Conclusions**
 
