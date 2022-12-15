@@ -13,7 +13,7 @@ StyleGuide offeres quick easy solutions to the age old problem of selecting good
 * **[Lukas Pecson](https://usabilityengineering.github.io/ux-portfolio-Lpecson/)** - UX Designer
 
 **Methods**
-For our user test we had 5 users try out our prototype using a test that we had created that would have the user go through and utilize each feature we had available in our prototype. Before each test we asked each tester if they had ever used a color picker app before so we could have that additional info on their background as that seemed it would affect how they used our protoype.
+For our user test we had 5 users try out our prototype using a test that we had created that would have the user go through and utilize each feature we had available in our prototype. Before each test we asked each tester if they had ever used a color picker app before so we could have that additional info on their background as that seemed it would affect how they used our prototype.
 
 Our user test went as follows:
 
@@ -25,14 +25,14 @@ Task 1 was user needs to find a set of complimentary colors
 *Step 2*
 Task 2 was user needs to change the color system being used
 
-  How we wanted this to be solved was: User navigates to the bottom of the screen and clicks the "Color System" tab and selects one of the options that is not currently selected.(MonoChromatic, Triad, Analogous)
+  How we wanted this to be solved was: User navigates to the bottom of the screen and clicks the "Color System" tab and selects one of the options that is not currently selected. (MonoChromatic, Triad, Analogous)
 
 *Step 3*
 Task 3 was user wanted to reference a color pairing/grouping that they used in the past
 
   How we wanted this to be solved was: User navigates to the User Profile tab in the top left and then selects a previously matched/grouped set of colors
 
-Once done with all steps of our test we would ask users debreif questions to get some insight on their thoughts on the product including.
+Once done with all steps of our test we would ask users debrief questions to get some insight on their thoughts on the product including.
 "In general, what did you like or dislike the most?"
 
 "Are there any features you felt were needed? Any features to be taken away"
