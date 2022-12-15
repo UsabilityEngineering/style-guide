@@ -12,7 +12,7 @@ StyleGuide offeres quick easy solutions to the age old problem of selecting good
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframe/)
-* [Prototype](#) - Coming soon (phase III)!
+* [Functional Prototype](https://xd.adobe.com/view/fdb1d7fd-1ada-49b0-bfba-e091959253f8-a8e2/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
