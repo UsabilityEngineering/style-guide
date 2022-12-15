@@ -19,14 +19,17 @@ Our user test went as follows:
 
 *Step 1*
 Task 1 was user needs to find a set of complimentary colors
+
 How we wanted this to be solved was: User should take a picture, select a color in that picture and then using the swatches tab select a complimentary color for the color chosen in the picture.
 
 *Step 2*
 Task 2 was user needs to change the color system being used
+
 How we wanted this to be solved was: User navigates to the bottom of the screen and clicks the "Color System" tab and selects one of the options that is not currently selected.(MonoChromatic, Triad, Analogous)
 
 *Step 3*
 Task 3 was user wanted to reference a color pairing/grouping that they used in the past
+
 How we wanted this to be solved was: User navigates to the User Profile tab in the top left and then selects a previously matched/grouped set of colors
 
 Once done with all steps of our test we would ask users debreif questions to get some insight on their thoughts on the product including.
